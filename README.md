@@ -116,7 +116,7 @@ Notefy offers multiple convenient activation methods:
   - Click the Share icon (in the bottom). &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/2a9b536e-b193-496b-a810-76431aaba429" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="14px" />
   - Scroll down and select Noefy. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/81c16219-f639-477f-ba4f-5aeb5fd7cbdc" draggable="false" ondragstart="return false;" alt="Notefy Icon" title="Notefy Icon" width="16px" />
 
-  Whatsapp:
+  WhatsApp:
 
   - Hover over the audio message you wish to summarise.
   - Click ‘Forward’ in the appearing menu. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/d04cc23e-2101-4f66-96ed-92178bd9b8ff" draggable="false" ondragstart="return false;" alt="Forward Icon" title="Forward Icon" width="19px" />
@@ -143,7 +143,7 @@ Notefy streamlines summarising, transforming it into a straightforward and enjoy
 
 ## Notefy Privacy
 
-As a shortcut within the Apple ecosystem, Notefy already benefits from inherent protection, even when interacting with third-party service providers. However, it relies on the OpenAI API for its full functionality. If you are hesitant about sharing information with third-party services, Notefy may not be suitable for you. For those considering using Notefy, it's recommended to first review the Privacy Policies of [OpenAI][openai-privacy] to help you make a well-informed decision.
+As a shortcut within the Apple ecosystem, Notefy automatically enjoys certain built-in security features. This inherent protection extends to its interactions with external service providers. However, it's important to note that the full functionality of this shortcut depends on the OpenAI API. This means that if you have reservations about sharing your data with third-party services, Notefy might not be the ideal choice for you. For those considering using Notefy, it's recommend reviewing the [OpenAI Privacy Policy][openai-privacy] to make an informed decision.
 
 <br><br>
 
