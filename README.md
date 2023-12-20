@@ -43,8 +43,8 @@ To start, ensure you have the [Apple Shortcuts][apple-shortcuts-download] app in
 
 To utilise ChatGPT's services with Siri, it is essential to obtain an OpenAI API key. To acquire this key, you need to generate a new secret key from your existing OpenAI account. If you don't have an OpenAI account yet, you can easily sign up for one by visiting the OpenAI signup page [here][openai-signup]. This secret key plays a crucial role in verifying your authentication. Here are the steps on how to do it:
 
-1. Log in to your [OpenAI account][openai-account].
-2. Search for the ‘Create new secret key’ option and click on it.
+- Log in to your [OpenAI account][openai-account].
+- Search for the ‘Create new secret key’ option and click on it.
 
 <p align="center">
   <picture>
@@ -107,22 +107,22 @@ Notefy offers multiple convenient activation methods:
 
   Notes:
 
-  1. Click the Share icon (in the right top corner). &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/51acf6d7-bbc2-41cd-9d1e-592e2b2bbe68" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />
-  2. Select ‘Send a Copy’. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/2a9b536e-b193-496b-a810-76431aaba429" draggable="false" ondragstart="return false;" alt="Send a Copy Icon" title="Send a Copy Icon" width="14px" />
-  3. Scroll down and select Noefy. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/81c16219-f639-477f-ba4f-5aeb5fd7cbdc" draggable="false" ondragstart="return false;" alt="Notefy Icon" title="Notefy Icon" width="16px" />
+  - Click the Share icon (in the right top corner). &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/51acf6d7-bbc2-41cd-9d1e-592e2b2bbe68" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />
+  - Select ‘Send a Copy’. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/2a9b536e-b193-496b-a810-76431aaba429" draggable="false" ondragstart="return false;" alt="Send a Copy Icon" title="Send a Copy Icon" width="14px" />
+  - Scroll down and select Noefy. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/81c16219-f639-477f-ba4f-5aeb5fd7cbdc" draggable="false" ondragstart="return false;" alt="Notefy Icon" title="Notefy Icon" width="16px" />
 
   Safari:
 
-  1. Click the Share icon (in the bottom). &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/2a9b536e-b193-496b-a810-76431aaba429" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="14px" />
-  2. Scroll down and select Noefy. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/81c16219-f639-477f-ba4f-5aeb5fd7cbdc" draggable="false" ondragstart="return false;" alt="Notefy Icon" title="Notefy Icon" width="16px" />
+  - Click the Share icon (in the bottom). &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/2a9b536e-b193-496b-a810-76431aaba429" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="14px" />
+  - Scroll down and select Noefy. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/81c16219-f639-477f-ba4f-5aeb5fd7cbdc" draggable="false" ondragstart="return false;" alt="Notefy Icon" title="Notefy Icon" width="16px" />
 
   WhatsApp:
 
-  1. Hover over the audio message you wish to summarise.
-  2. Click ‘Forward’ in the appearing menu. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/d04cc23e-2101-4f66-96ed-92178bd9b8ff" draggable="false" ondragstart="return false;" alt="Forward Icon" title="Forward Icon" width="19px" />
-  3. Choose the individual chat you want to summarise. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/d1344e90-d823-4f85-a192-f3818be3b1aa" draggable="false" ondragstart="return false;" alt="Done Icon" title="Done Icon" width="18px" />
-  4. Click the Share icon (in the right bottom corner). &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/2a9b536e-b193-496b-a810-76431aaba429" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="14px" />
-  5. Select Notefy. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/81c16219-f639-477f-ba4f-5aeb5fd7cbdc" draggable="false" ondragstart="return false;" alt="Notefy Icon" title="Notefy Icon" width="16px" />
+  - Hover over the audio message you wish to summarise.
+  - Click ‘Forward’ in the appearing menu. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/d04cc23e-2101-4f66-96ed-92178bd9b8ff" draggable="false" ondragstart="return false;" alt="Forward Icon" title="Forward Icon" width="19px" />
+  - Choose the individual chat you want to summarise. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/d1344e90-d823-4f85-a192-f3818be3b1aa" draggable="false" ondragstart="return false;" alt="Done Icon" title="Done Icon" width="18px" />
+  - Click the Share icon (in the right bottom corner). &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/2a9b536e-b193-496b-a810-76431aaba429" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="14px" />
+  - Select Notefy. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/81c16219-f639-477f-ba4f-5aeb5fd7cbdc" draggable="false" ondragstart="return false;" alt="Notefy Icon" title="Notefy Icon" width="16px" />
 
 - Mac Integration: Notefy integrates smoothly with the Mac workflow. Whether the text is in Notes or online, just highlight it and access Notefy via the Services menu with a right-click. This allows for the rapid conversion of lengthy texts into summaries.
 
@@ -161,23 +161,23 @@ As a shortcut within the Apple ecosystem, Notefy automatically enjoys certain bu
 
 On iPhone & iPad:
 
-1. Access Folders List: If you're currently viewing the Notes list, begin by tapping the back arrow icon &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/2017a630-c66f-4ccf-a5c2-9292eaa21f1e" draggable="false" ondragstart="return false;" alt="Back Arrow Icon" title="Back Arrow Icon" width="9px" />&nbsp; to return to the previous screen. This action will bring you to your Folders list.
+- Access Folders List: If you're currently viewing the Notes list, begin by tapping the back arrow icon &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/2017a630-c66f-4ccf-a5c2-9292eaa21f1e" draggable="false" ondragstart="return false;" alt="Back Arrow Icon" title="Back Arrow Icon" width="9px" />&nbsp; to return to the previous screen. This action will bring you to your Folders list.
 
-2. New Folder Creation: Once you're in the Folders list, look for the New Folder button &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/ee1b83ac-80a2-4573-8548-b8d3d83c0571" draggable="false" ondragstart="return false;" alt="New Folder Icon" title="New Folder Icon" width="24px" />&nbsp; and tap on it to start creating a new folder.
+- New Folder Creation: Once you're in the Folders list, look for the New Folder button &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/ee1b83ac-80a2-4573-8548-b8d3d83c0571" draggable="false" ondragstart="return false;" alt="New Folder Icon" title="New Folder Icon" width="24px" />&nbsp; and tap on it to start creating a new folder.
 
-3. Naming and Saving: Give your new folder a name. After naming it, tap the 'Save' button to finalise the creation of your folder.
+- Naming and Saving: Give your new folder a name. After naming it, tap the 'Save' button to finalise the creation of your folder.
 
-4. Select Folder Location: Decide where you want to place your new folder. If you aim to create a subfolder within an existing main folder, simply drag the new folder towards the main folder. It will automatically position itself beneath the main folder and will be slightly indented to the right, indicating its status as a subfolder.
+- Select Folder Location: Decide where you want to place your new folder. If you aim to create a subfolder within an existing main folder, simply drag the new folder towards the main folder. It will automatically position itself beneath the main folder and will be slightly indented to the right, indicating its status as a subfolder.
 
 On Mac:
 
-1. Select an Existing Folder: Firstly, locate and select one of the existing folders on your Mac. Upon selection, you'll notice an icon with three dots &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/51acf6d7-bbc2-41cd-9d1e-592e2b2bbe68" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />&nbsp; appearing on the right side of the folder.
+- Select an Existing Folder: Firstly, locate and select one of the existing folders on your Mac. Upon selection, you'll notice an icon with three dots &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/51acf6d7-bbc2-41cd-9d1e-592e2b2bbe68" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />&nbsp; appearing on the right side of the folder.
 
-2. New Folder Creation: Click on the three-dot icon &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/51acf6d7-bbc2-41cd-9d1e-592e2b2bbe68" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />&nbsp;. A menu will appear. From this menu, select ‘New Folder’. This action will create a new folder in the current location.
+- New Folder Creation: Click on the three-dot icon &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/51acf6d7-bbc2-41cd-9d1e-592e2b2bbe68" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />&nbsp;. A menu will appear. From this menu, select ‘New Folder’. This action will create a new folder in the current location.
 
-3. Prepare to Rename the New Folder: Now, select the newly created folder. After selecting it, click on the three-dot icon &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/51acf6d7-bbc2-41cd-9d1e-592e2b2bbe68" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />&nbsp; again to access additional options.
+- Prepare to Rename the New Folder: Now, select the newly created folder. After selecting it, click on the three-dot icon &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/51acf6d7-bbc2-41cd-9d1e-592e2b2bbe68" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />&nbsp; again to access additional options.
 
-4. Rename Your Folder: In the options menu, choose the ‘Rename’ function. You can then type in the desired name for your folder. Once you've entered the new name, confirm your choice to complete the renaming process.
+- Rename Your Folder: In the options menu, choose the ‘Rename’ function. You can then type in the desired name for your folder. Once you've entered the new name, confirm your choice to complete the renaming process.
 
 By following these steps, you can efficiently organise your notes and documents into new folders and subfolders, enhancing your overall productivity and ease of access.
 
