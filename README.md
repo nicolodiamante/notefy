@@ -24,15 +24,15 @@ Integrating Notefy with Siri is a straightforward process, but it does require m
 
 ### Get the Shortcut
 
-To start, ensure you have the [Apple Shortcuts][apple-shortcuts-download] app installed. Next, download the [Notefy][notefy-shortcut] Shortcut. You're welcome to rename the shortcut to a title that suits you. Before you begin using it, though, make sure you continue reading.
+To start, ensure you have the [Apple Shortcuts][apple-shortcuts-download] app installed. Next, download the [Notefy Shortcut][notefy-shortcut]. You're welcome to rename the shortcut to a title that suits you. Before you begin using it, though, make sure you continue reading.
 
 <br><br>
 
 <p align="center">
-  <a href="https://www.icloud.com/shortcuts/499c51a5d676459e87510fd7cf45e731" target="_blank">
+  <a href="https://www.icloud.com/shortcuts/d2df3417a46944949eae20d69fc9b3a0" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/notefy/assets/48920263/39dc630c-36c5-4db4-b355-22f2eb5cf6d9" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Notefy" />
-      <img src="https://github.com/nicolodiamante/notefy/assets/48920263/1b89af88-b896-4029-b6c4-6a244db5ccfb" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Notefy" width="600" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/notefy/assets/48920263/1afe9349-a1e9-4477-a823-9113a9197202" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Notefy" />
+      <img src="https://github.com/nicolodiamante/notefy/assets/48920263/2cb945c3-7bcb-400f-b37a-fd16f2ff2b23" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Notefy" width="600" />
     </picture>
   </a>
 </p>
@@ -210,7 +210,7 @@ Thank you for your interest in this shortcut. Your feedback would be much apprec
 [openai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[notefy-shortcut]: https://www.icloud.com/shortcuts/499c51a5d676459e87510fd7cf45e731
+[notefy-shortcut]: https://www.icloud.com/shortcuts/d2df3417a46944949eae20d69fc9b3a0
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [apple-siri]: https://www.apple.com/siri/
 [chaGPT]: https://openai.com/blog/chatgpt
