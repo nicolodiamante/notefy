@@ -29,7 +29,7 @@ To start, ensure you have the [Apple Shortcuts][apple-shortcuts-download] app in
 <br><br>
 
 <p align="center">
-  <a href="https://www.icloud.com/shortcuts/64eafd29cff4481daa1923d7d8d3f529" target="_blank">
+  <a href="https://www.icloud.com/shortcuts/a4bf4014465a4a8fac4d877d2acf4c27" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/notefy/assets/48920263/1afe9349-a1e9-4477-a823-9113a9197202" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Notefy" />
       <img src="https://github.com/nicolodiamante/notefy/assets/48920263/2cb945c3-7bcb-400f-b37a-fd16f2ff2b23" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Notefy" width="600" />
@@ -130,8 +130,8 @@ Notefy offers multiple convenient activation methods:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/notefy/assets/48920263/5e54f6f2-a192-47cf-a6a7-b996f05c00ac" draggable="false" ondragstart="return false;" alt="Quick Actions Menu" title="Quick Actions Menu" />
-    <img src="https://github.com/nicolodiamante/notefy/assets/48920263/1693af1a-b2c9-4a91-889b-c3286dcb6112" draggable="false" ondragstart="return false; "alt="Quick Actions Menu" title="Quick Actions Menu" width="600px" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/notefy/assets/48920263/e82e4bb5-742b-4196-ac96-774784a78a66" draggable="false" ondragstart="return false;" alt="Quick Actions Menu" title="Quick Actions Menu" />
+    <img src="https://github.com/nicolodiamante/notefy/assets/48920263/fadd0673-bcee-4744-a380-ff4b273aaaac" draggable="false" ondragstart="return false; "alt="Quick Actions Menu" title="Quick Actions Menu" width="600px" />
   </picture>
 </p>
 
@@ -238,7 +238,7 @@ Thank you for your interest in this shortcut. Your feedback would be much apprec
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
 [apple-notes-app]: https://support.apple.com/en-us/HT205773
-[notefy-shortcut]: https://www.icloud.com/shortcuts/64eafd29cff4481daa1923d7d8d3f529
+[notefy-shortcut]: https://www.icloud.com/shortcuts/a4bf4014465a4a8fac4d877d2acf4c27
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [apple-siri]: https://www.apple.com/siri/
 [chaGPT]: https://openai.com/blog/chatgpt
