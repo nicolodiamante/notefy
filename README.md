@@ -29,7 +29,7 @@ To start, ensure you have the [Apple Shortcuts][apple-shortcuts-download] app in
 <br><br>
 
 <p align="center">
-  <a href="https://www.icloud.com/shortcuts/901a6dda067945cfb12963a2a4d30d0e" target="_blank">
+  <a href="https://www.icloud.com/shortcuts/2ec25aed4b0749e9b96b46e17a3487b3" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/notefy/assets/48920263/1afe9349-a1e9-4477-a823-9113a9197202" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Notefy" />
       <img src="https://github.com/nicolodiamante/notefy/assets/48920263/2cb945c3-7bcb-400f-b37a-fd16f2ff2b23" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Notefy" width="600" />
@@ -238,7 +238,7 @@ Thank you for your interest in this shortcut. Your feedback would be much apprec
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
 [apple-notes-app]: https://support.apple.com/en-us/HT205773
-[notefy-shortcut]: https://www.icloud.com/shortcuts/901a6dda067945cfb12963a2a4d30d0e
+[notefy-shortcut]: https://www.icloud.com/shortcuts/2ec25aed4b0749e9b96b46e17a3487b3
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [apple-siri]: https://www.apple.com/siri/
 [chaGPT]: https://openai.com/blog/chatgpt
