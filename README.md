@@ -29,7 +29,7 @@ To start, ensure you have the [Apple Shortcuts][apple-shortcuts-download] app in
 <br><br>
 
 <p align="center">
-  <a href="https://www.icloud.com/shortcuts/2ec25aed4b0749e9b96b46e17a3487b3" target="_blank">
+  <a href="https://www.icloud.com/shortcuts/1b77d141616048c7b3291e7751be5815" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/notefy/assets/48920263/1afe9349-a1e9-4477-a823-9113a9197202" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Notefy" />
       <img src="https://github.com/nicolodiamante/notefy/assets/48920263/2cb945c3-7bcb-400f-b37a-fd16f2ff2b23" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Notefy" width="600" />
@@ -141,6 +141,16 @@ Notefy streamlines summarising, transforming it into a straightforward and enjoy
 
 <br><br>
 
+## What's new in Notefy
+
+### v1.1.1
+
+Release Highlights:
+
+- New Model Integration: This update simplifies the model options from 4 to 3. Users now have three distinct models to choose from: ChatGPT-3.5-Turbo, which now points to ChatGPT-3.5-Turbo-0125; ChatGPT-4 has been upgraded to ChatGPT-4-Turbo; and the newly introduced ChatGPT-4o is now available. This adjustment aims to simplify model selection while maintaining advanced capabilities.
+
+<br>
+
 ## Notefy Privacy
 
 As a shortcut within the Apple ecosystem, Notefy automatically enjoys certain built-in security features. This inherent protection extends to its interactions with external service providers. However, it's important to note that the full functionality of this shortcut depends on the OpenAI API. This means that if you have reservations about sharing your data with third-party services, Notefy might not be the ideal choice for you. For those considering using Notefy, it's recommend reviewing the [OpenAI Privacy Policy][openai-privacy] to make an informed decision.
@@ -238,7 +248,7 @@ Thank you for your interest in this shortcut. Your feedback would be much apprec
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
 [apple-notes-app]: https://support.apple.com/en-us/HT205773
-[notefy-shortcut]: https://www.icloud.com/shortcuts/2ec25aed4b0749e9b96b46e17a3487b3
+[notefy-shortcut]: https://www.icloud.com/shortcuts/1b77d141616048c7b3291e7751be5815
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [apple-siri]: https://www.apple.com/siri/
 [chaGPT]: https://openai.com/blog/chatgpt
