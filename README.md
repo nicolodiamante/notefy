@@ -29,13 +29,17 @@ To start, ensure you have the [Apple Shortcuts][apple-shortcuts-download] app in
 <br><br>
 
 <p align="center">
-  <a href="https://www.icloud.com/shortcuts/1b77d141616048c7b3291e7751be5815" target="_blank">
+  <a href="https://www.icloud.com/shortcuts/fd60799d7a2f4e428f5ba77ff1cd2f4e" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/notefy/assets/48920263/1afe9349-a1e9-4477-a823-9113a9197202" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Notefy" />
-      <img src="https://github.com/nicolodiamante/notefy/assets/48920263/2cb945c3-7bcb-400f-b37a-fd16f2ff2b23" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Notefy" width="600" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/notefy/assets/48920263/926e1466-5e36-4c8c-ac81-ebdc4f6eb5e9" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Notefy" />
+      <img src="https://github.com/nicolodiamante/notefy/assets/48920263/ef92317b-b498-472e-bd19-056f60b031c3" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Notefy" width="600" />
     </picture>
   </a>
 </p>
+
+<br>
+
+> Please make sure to complete the following tasks when transitioning to the new version: Decode the API keys that were previously stored in an encrypted format in the Data Jar. To simplify this process, use the [DecodeMe][decode-key-shortcut] shortcut. Remember to complete this for each key of OpenAI's and ElevenLabs.
 
 <br><br>
 
@@ -71,7 +75,7 @@ After downloading the shortcut and copying your API key, follow these steps to p
 
 - Next, proceed with the configuration process. Carefully follow each step to tailor the shortcut according to your unique preferences. After completing these steps, the shortcut will be ready for immediate use.
 
-> Note on API Key Storage Options: You have the flexibility to store your OpenAI API key in two ways. Firstly, you can directly embed it within the Notefy shortcut for convenience. Alternatively, for enhanced security, you may opt to use the Data Jar app to store the API key. If you decide on the latter, ensure that you have the Data Jar app installed. If not, or if you prefer a simpler approach, storing the API key directly in the shortcut remains a viable option.
+> Note on API Key Storage Options: You have the flexibility to store your OpenAI API key in two ways. Firstly, you can directly embed it within the Notefy shortcut for convenience. Alternatively, you may opt to use the Data Jar app to store the API key. If you decide on the latter, ensure that you have the Data Jar app installed. If not, or if you prefer a simpler approach, storing the API key directly in the shortcut remains a viable option.
 
 <br>
 
@@ -142,6 +146,14 @@ Notefy streamlines summarising, transforming it into a straightforward and enjoy
 <br><br>
 
 ## What's new in Notefy
+
+### v1.1.2
+
+Release Highlights:
+
+- API Key Storage Enhancement: To resolve issues with script readability, API keys will no longer be encrypted in Data Jar. Previously, encryption caused errors that prevented the Shortcut from reading the API key. Storing keys unencrypted will ensure seamless script functionality.
+
+<br>
 
 ### v1.1.1
 
@@ -248,7 +260,7 @@ Thank you for your interest in this shortcut. Your feedback would be much apprec
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
 [apple-notes-app]: https://support.apple.com/en-us/HT205773
-[notefy-shortcut]: https://www.icloud.com/shortcuts/1b77d141616048c7b3291e7751be5815
+[notefy-shortcut]: https://www.icloud.com/shortcuts/fd60799d7a2f4e428f5ba77ff1cd2f4e
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [apple-siri]: https://www.apple.com/siri/
 [chaGPT]: https://openai.com/blog/chatgpt
@@ -258,4 +270,5 @@ Thank you for your interest in this shortcut. Your feedback would be much apprec
 [intro]: https://platform.openai.com/docs/introduction
 [chat-completions]: https://platform.openai.com/docs/guides/chat
 [data-jar]: https://datajar.app
+[decode-key-shortcut]: https://www.icloud.com/shortcuts/0ce3c6d5944a42d4951576620d75f8fe
 [issues]: https://github.com/nicolodiamante/notefy/issues
