@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/notefy/assets/48920263/b834c045-97c4-4e48-a7ed-17f9b9bdd58a" draggable="false" ondragstart="return false;" alt="Notefy" title="Notefy" />
-    <img src="https://github.com/nicolodiamante/notefy/assets/48920263/da5bee1b-8e5e-4225-b438-90cf537a61c9" draggable="false" ondragstart="return false; "alt="Notefy" title="Notefy" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/997fc251-784f-4d84-bb99-87b2ccab8c11" draggable="false" ondragstart="return false;" alt="Notefy" title="Notefy" />
+    <img src="https://github.com/user-attachments/assets/2be5555f-9f02-4982-aeca-4a0053c64665" draggable="false" ondragstart="return false; "alt="Notefy" title="Notefy" />
   </picture>
 </p>
 
@@ -11,7 +11,7 @@ In an era where information overflows yet time remains scarce, Notefy aims to be
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/notefy/assets/48920263/a1227bd9-cea6-47f5-a430-88b4178c097c" draggable="false" ondragstart="return false; "alt="Siri + ChatGPT" title="Siri + ChatGPT" width="700px" />
+    <img src="https://github.com/user-attachments/assets/43509fbb-ebde-47b8-9674-1e7dc9fbe1df" draggable="false" ondragstart="return false; "alt="Siri + ChatGPT" title="Siri + ChatGPT" width="700px" />
   </picture>
 </p>
 
@@ -29,10 +29,10 @@ To start, ensure you have the [Apple Shortcuts][apple-shortcuts-download] app in
 <br><br>
 
 <p align="center">
-  <a href="https://www.icloud.com/shortcuts/fd60799d7a2f4e428f5ba77ff1cd2f4e" target="_blank">
+  <a href="https://www.icloud.com/shortcuts/219e814900024849845fd0f7e8d36592" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/notefy/assets/48920263/926e1466-5e36-4c8c-ac81-ebdc4f6eb5e9" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Notefy" />
-      <img src="https://github.com/nicolodiamante/notefy/assets/48920263/ef92317b-b498-472e-bd19-056f60b031c3" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Notefy" width="600" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/238bbb4c-2b15-42fc-aead-c556f714bd1b" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Notefy" />
+      <img src="https://github.com/user-attachments/assets/b7d36c95-3974-46e5-b9c0-68730818c908" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Notefy" width="600" />
     </picture>
   </a>
 </p>
@@ -52,7 +52,7 @@ To utilise ChatGPT's services with Siri, it is essential to obtain an OpenAI API
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/notefy/assets/48920263/70d2d961-c431-41ed-aa91-ecf9955ec590" draggable="false" ondragstart="return false; "alt="Create new secret key" title="Create new secret key" width="750px" />
+    <img src="https://github.com/user-attachments/assets/fbc4f2f3-add8-4a8a-9dd4-3cd98c1d8114" draggable="false" ondragstart="return false; "alt="Create new secret key" title="Create new secret key" width="750px" />
   </picture>
 </p>
 
@@ -61,7 +61,7 @@ Once you obtain the [API Key][openai-API], incorporating ChatGPT's services with
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/notefy/assets/48920263/8d88b6f4-f46f-4b7b-b84e-bf76a95316f8" draggable="false" ondragstart="return false; "alt="OpenAI API Key" title="OpenAI API Key" width="750px" />
+    <img src="https://github.com/user-attachments/assets/09f6806f-91ba-4fd2-aca7-3e36204b8697" draggable="false" ondragstart="return false; "alt="OpenAI API Key" title="OpenAI API Key" width="750px" />
   </picture>
 </p>
 
@@ -81,7 +81,7 @@ After downloading the shortcut and copying your API key, follow these steps to p
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/notefy/assets/48920263/9fffbbfc-a42c-493e-8d1a-fc54efb386ac" draggable="false" ondragstart="return false;" alt="Paste your API keys" title="Paste your API keys" width="600px" />
+    <img src="https://github.com/user-attachments/assets/3207d92d-5315-4745-8785-ee6c6ce2d3cc" draggable="false" ondragstart="return false;" alt="Paste your API keys" title="Paste your API keys" width="600px" />
   </picture>
 </p>
 
@@ -101,7 +101,7 @@ Notefy offers multiple convenient activation methods:
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/notefy/assets/48920263/1733bca6-7f7b-4868-acf3-a3007fb47704" draggable="false" ondragstart="return false;" alt="Notefy Output" title="Notefy Output" width="1000px" />
+    <img src="https://github.com/user-attachments/assets/fe4f4299-aae1-4b9b-b8d2-04efe1f46e07" draggable="false" ondragstart="return false;" alt="Notefy Output" title="Notefy Output" width="1000px" />
   </picture>
 </p>
 
@@ -111,22 +111,22 @@ Notefy offers multiple convenient activation methods:
 
   Notes:
 
-  - Click the Share icon (in the right top corner). &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/51acf6d7-bbc2-41cd-9d1e-592e2b2bbe68" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />
-  - Select ‘Send a Copy’. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/2a9b536e-b193-496b-a810-76431aaba429" draggable="false" ondragstart="return false;" alt="Send a Copy Icon" title="Send a Copy Icon" width="14px" />
-  - Scroll down and select Noefy. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/81c16219-f639-477f-ba4f-5aeb5fd7cbdc" draggable="false" ondragstart="return false;" alt="Notefy Icon" title="Notefy Icon" width="16px" />
+  - Click the Share icon (in the right top corner). &nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/4b0f8126-fce0-4fcc-88d5-f24b392cf7e6" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />
+  - Select ‘Send a Copy’. &nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/5d185726-4636-43e6-9580-e2096f826d15" draggable="false" ondragstart="return false;" alt="Send a Copy Icon" title="Send a Copy Icon" width="14px" />
+  - Scroll down and select Noefy. &nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/dbc8a4b4-a974-4489-9680-2f2ad82ae32e" draggable="false" ondragstart="return false;" alt="Notefy Icon" title="Notefy Icon" width="16px" />
 
   Safari:
 
-  - Click the Share icon (in the bottom). &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/2a9b536e-b193-496b-a810-76431aaba429" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="14px" />
-  - Scroll down and select Noefy. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/81c16219-f639-477f-ba4f-5aeb5fd7cbdc" draggable="false" ondragstart="return false;" alt="Notefy Icon" title="Notefy Icon" width="16px" />
+  - Click the Share icon (in the bottom). &nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/5d185726-4636-43e6-9580-e2096f826d15" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="14px" />
+  - Scroll down and select Noefy. &nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/dbc8a4b4-a974-4489-9680-2f2ad82ae32e" draggable="false" ondragstart="return false;" alt="Notefy Icon" title="Notefy Icon" width="16px" />
 
   WhatsApp:
 
   - Hover over the audio message you wish to summarise.
-  - Click ‘Forward’ in the appearing menu. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/d04cc23e-2101-4f66-96ed-92178bd9b8ff" draggable="false" ondragstart="return false;" alt="Forward Icon" title="Forward Icon" width="19px" />
-  - Choose the individual chat you want to summarise. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/d1344e90-d823-4f85-a192-f3818be3b1aa" draggable="false" ondragstart="return false;" alt="Done Icon" title="Done Icon" width="18px" />
-  - Click the Share icon (in the right bottom corner). &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/2a9b536e-b193-496b-a810-76431aaba429" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="14px" />
-  - Select Notefy. &nbsp;&nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/81c16219-f639-477f-ba4f-5aeb5fd7cbdc" draggable="false" ondragstart="return false;" alt="Notefy Icon" title="Notefy Icon" width="16px" />
+  - Click ‘Forward’ in the appearing menu. &nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/ca754e6f-317e-49a8-b0c8-25f843776f71" draggable="false" ondragstart="return false;" alt="Forward Icon" title="Forward Icon" width="19px" />
+  - Choose the individual chat you want to summarise. &nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/2aba602c-3d1d-416e-bbb2-be3d04cccfb5" draggable="false" ondragstart="return false;" alt="Done Icon" title="Done Icon" width="18px" />
+  - Click the Share icon (in the right bottom corner). &nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/5d185726-4636-43e6-9580-e2096f826d15" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="14px" />
+  - Select Notefy. &nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/dbc8a4b4-a974-4489-9680-2f2ad82ae32e" draggable="false" ondragstart="return false;" alt="Notefy Icon" title="Notefy Icon" width="16px" />
 
 - Mac Integration: Notefy integrates smoothly with the Mac workflow. Whether the text is in Notes or online, just highlight it and access Notefy via the Services menu with a right-click. This allows for the rapid conversion of lengthy texts into summaries.
 
@@ -134,8 +134,8 @@ Notefy offers multiple convenient activation methods:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/notefy/assets/48920263/e82e4bb5-742b-4196-ac96-774784a78a66" draggable="false" ondragstart="return false;" alt="Quick Actions Menu" title="Quick Actions Menu" />
-    <img src="https://github.com/nicolodiamante/notefy/assets/48920263/fadd0673-bcee-4744-a380-ff4b273aaaac" draggable="false" ondragstart="return false; "alt="Quick Actions Menu" title="Quick Actions Menu" width="600px" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/9bb8c414-0007-4b0f-bf21-66620ce25ced" draggable="false" ondragstart="return false;" alt="Quick Actions Menu" title="Quick Actions Menu" />
+    <img src="https://github.com/user-attachments/assets/1c391377-d324-4565-b7c9-ed9772339839" draggable="false" ondragstart="return false; "alt="Quick Actions Menu" title="Quick Actions Menu" width="600px" />
   </picture>
 </p>
 
@@ -146,6 +146,14 @@ Notefy streamlines summarising, transforming it into a straightforward and enjoy
 <br><br>
 
 ## What's new in Notefy
+
+### v1.1.3
+
+Release Highlights:
+
+- New Model Introduction: GPT-4o mini (‘o’ for ‘omni’): The most advanced and affordable model in the small models category. It boasts higher intelligence than gpt-3.5-turbo while maintaining the same speed. GPT-4o mini is designed for smaller tasks. It is recommended to choose GPT-4o mini where gpt-3.5-turbo would have been used previously, as this model is more capable and economical.
+
+<br>
 
 ### v1.1.2
 
@@ -171,7 +179,7 @@ As a shortcut within the Apple ecosystem, Notefy automatically enjoys certain bu
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/notefy/assets/48920263/234cd4f6-c82c-445e-a22b-46bb53a71687" draggable="false" ondragstart="return false;" alt="Shortcut Privacy" title="Shortcut Privacy" width="900px" />
+    <img src="https://github.com/user-attachments/assets/b6ee1daa-4815-4bc4-abf4-ee2ff6164e9b" draggable="false" ondragstart="return false;" alt="Shortcut Privacy" title="Shortcut Privacy" width="900px" />
   </picture>
 </p>
 
@@ -183,9 +191,9 @@ As a shortcut within the Apple ecosystem, Notefy automatically enjoys certain bu
 
 On iPhone & iPad:
 
-- Access Folders List: If you're currently viewing the Notes list, begin by tapping the back arrow icon &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/2017a630-c66f-4ccf-a5c2-9292eaa21f1e" draggable="false" ondragstart="return false;" alt="Back Arrow Icon" title="Back Arrow Icon" width="9px" />&nbsp; to return to the previous screen. This action will bring you to your Folders list.
+- Access Folders List: If you're currently viewing the Notes list, begin by tapping the back arrow icon &nbsp;<img src="https://github.com/user-attachments/assets/376c0372-fbc4-433c-835c-52a20b85df11" draggable="false" ondragstart="return false;" alt="Back Arrow Icon" title="Back Arrow Icon" width="9px" />&nbsp; to return to the previous screen. This action will bring you to your Folders list.
 
-- New Folder Creation: Once you're in the Folders list, look for the New Folder button &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/ee1b83ac-80a2-4573-8548-b8d3d83c0571" draggable="false" ondragstart="return false;" alt="New Folder Icon" title="New Folder Icon" width="24px" />&nbsp; and tap on it to start creating a new folder.
+- New Folder Creation: Once you're in the Folders list, look for the New Folder button &nbsp;<img src="https://github.com/user-attachments/assets/06792649-1c65-42c4-8ac6-ca500d0b4f53" draggable="false" ondragstart="return false;" alt="New Folder Icon" title="New Folder Icon" width="24px" />&nbsp; and tap on it to start creating a new folder.
 
 - Naming and Saving: Give your new folder a name. After naming it, tap the 'Save' button to finalise the creation of your folder.
 
@@ -193,11 +201,11 @@ On iPhone & iPad:
 
 On Mac:
 
-- Select an Existing Folder: Firstly, locate and select one of the existing folders on your Mac. Upon selection, you'll notice an icon with three dots &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/51acf6d7-bbc2-41cd-9d1e-592e2b2bbe68" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />&nbsp; appearing on the right side of the folder.
+- Select an Existing Folder: Firstly, locate and select one of the existing folders on your Mac. Upon selection, you'll notice an icon with three dots &nbsp;<img src="https://github.com/user-attachments/assets/4b0f8126-fce0-4fcc-88d5-f24b392cf7e6" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />&nbsp; appearing on the right side of the folder.
 
-- New Folder Creation: Click on the three-dot icon &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/51acf6d7-bbc2-41cd-9d1e-592e2b2bbe68" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />&nbsp;. A menu will appear. From this menu, select ‘New Folder’. This action will create a new folder in the current location.
+- New Folder Creation: Click on the three-dot icon &nbsp;<img src="https://github.com/user-attachments/assets/4b0f8126-fce0-4fcc-88d5-f24b392cf7e6" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />&nbsp;. A menu will appear. From this menu, select ‘New Folder’. This action will create a new folder in the current location.
 
-- Prepare to Rename the New Folder: Now, select the newly created folder. After selecting it, click on the three-dot icon &nbsp;<img src="https://github.com/nicolodiamante/notefy/assets/48920263/51acf6d7-bbc2-41cd-9d1e-592e2b2bbe68" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />&nbsp; again to access additional options.
+- Prepare to Rename the New Folder: Now, select the newly created folder. After selecting it, click on the three-dot icon &nbsp;<img src="https://github.com/user-attachments/assets/4b0f8126-fce0-4fcc-88d5-f24b392cf7e6" draggable="false" ondragstart="return false;" alt="Share Icon" title="Share Icon" width="18px" />&nbsp; again to access additional options.
 
 - Rename Your Folder: In the options menu, choose the ‘Rename’ function. You can then type in the desired name for your folder. Once you've entered the new name, confirm your choice to complete the renaming process.
 
@@ -234,20 +242,20 @@ Thank you for your interest in this shortcut. Your feedback would be much apprec
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/notefy/assets/48920263/bed7bb0e-88a4-4e2e-915c-ab03a7360cef" draggable="false" ondragstart="return false;" /></>
+    <img src="https://github.com/user-attachments/assets/e388e417-b074-4238-a711-a73c9351269e" draggable="false" ondragstart="return false;" /></>
   </picture>
 </p>
 
 <p align="center">
   <a href="https://nicolodiamante.com" target="_blank">
-    <img src="https://github.com/nicolodiamante/notefy/assets/48920263/99d09812-d66b-46f6-9cf3-10b1805bd164" draggable="false" ondragstart="return false;" alt="Nicol&#242; Diamante Portfolio" title="Nicol&#242; Diamante" width="17px" />
+    <img src="https://github.com/user-attachments/assets/ac8d0101-c428-4fd8-979c-77af1c0371da" draggable="false" ondragstart="return false;" alt="Nicol&#242; Diamante Portfolio" title="Nicol&#242; Diamante" width="17px" />
   </a>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/notefy/assets/48920263/0fda6dc3-8922-44f1-a29c-7333aaf395ec" draggable="false" ondragstart="return false;" alt="MIT License" title="MIT License" />
-    <img src="https://github.com/nicolodiamante/notefy/assets/48920263/01026a71-3775-4925-b814-1f6ae5332512" draggable="false" ondragstart="return false; "alt="MIT License" title="MIT License" width="95px" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/484d1cd0-f5c7-49c0-9736-33bb34667d99" draggable="false" ondragstart="return false;" alt="MIT License" title="MIT License" />
+    <img src="https://github.com/user-attachments/assets/af1ec5bb-87ec-4c1e-9e97-c01e419dc6aa" draggable="false" ondragstart="return false; "alt="MIT License" title="MIT License" width="95px" />
   </picture>
 </p>
 
@@ -260,7 +268,7 @@ Thank you for your interest in this shortcut. Your feedback would be much apprec
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
 [apple-notes-app]: https://support.apple.com/en-us/HT205773
-[notefy-shortcut]: https://www.icloud.com/shortcuts/fd60799d7a2f4e428f5ba77ff1cd2f4e
+[notefy-shortcut]: https://www.icloud.com/shortcuts/219e814900024849845fd0f7e8d36592
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [apple-siri]: https://www.apple.com/siri/
 [chaGPT]: https://openai.com/blog/chatgpt
